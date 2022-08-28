@@ -37,9 +37,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I was struggling at create the project because this is my first time using Xcode as an IDE but it was going fine after all.
+For some reasons, I don't know why Recordit doesn't record my Tip Calculator (Phone screen) but it records my desktop screen instead.
+I then use the second way and it runs smoothly.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Tam Dinh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
