@@ -1,13 +1,13 @@
 //
-//  PreWorkUITestsLaunchTests.swift
-//  PreWorkUITests
+//  pre_workUITestsLaunchTests.swift
+//  pre-workUITests
 //
 //  Created by My Tam Dinh on 8/27/22.
 //
 
 import XCTest
 
-class PreWorkUITestsLaunchTests: XCTestCase {
+class pre_workUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

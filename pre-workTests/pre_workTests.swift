@@ -1,14 +1,14 @@
 //
-//  PreWorkTests.swift
-//  PreWorkTests
+//  pre_workTests.swift
+//  pre-workTests
 //
 //  Created by My Tam Dinh on 8/27/22.
 //
 
 import XCTest
-@testable import PreWork
+@testable import pre_work
 
-class PreWorkTests: XCTestCase {
+class pre_workTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
